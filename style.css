@@ -5,7 +5,12 @@ body  {
   color: white;
 
 }
-h3  {
+dt  {
+
+  color: #FFD700;
+
+}
+dd  {
 
   color: #FFD700;
 
