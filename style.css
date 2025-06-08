@@ -53,6 +53,8 @@ button  {
     text-decoration: none;
     background-color: #ddd;
     transition-duration: 0.4s;
+    border: none;
+    border-radius: 15px;
   }
 button:hover {
     color: black;
