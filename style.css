@@ -47,8 +47,9 @@ navbar {
 
             background-color: #ddd;
             color: black;
+            transition-duration: 0.4s;
         }
-a  { 
+a  {
   color: white;
   text-decoration: none;
 }
