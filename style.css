@@ -48,13 +48,13 @@ navbar {
             color: black;
         }
 
-  .button  {
+.button  {
     color: white;
     text-decoration: none;
     background-color: #ddd;
     transition-duration: 0.4s;
   }
-  .button a:hover {
+.button a:hover {
     color: black;
     background-color: black;
 
