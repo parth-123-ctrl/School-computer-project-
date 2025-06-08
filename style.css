@@ -12,6 +12,9 @@ p  {
   color: #FFD700;
   font-size: 20px;
 }
+dl  {
+  color: #FFD700;
+}
 navbar {
             background-color: white;
             overflow: hidden;
