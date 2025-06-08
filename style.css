@@ -54,7 +54,7 @@ navbar {
     background-color: #ddd;
     transition-duration: 0.4s;
   }
-.button a:hover {
+.button a:hover { 
     color: black;
     background-color: black;
 
