@@ -57,6 +57,10 @@ button  {
     border-radius: 15px;
     font-weight: bold;
     box-shadow: 40px 0 90px #FFD700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
   }
 button:hover {
     color: black;
