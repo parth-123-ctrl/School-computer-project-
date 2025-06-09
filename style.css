@@ -60,7 +60,6 @@ button  {
     display: flex;
     justify-content: center;
     align-items: center;
-
   }
 button:hover {
     color: black;
