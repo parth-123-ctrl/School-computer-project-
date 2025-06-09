@@ -63,3 +63,9 @@ button:hover {
     background-color: orange;
     cursor: grab;
   }
+.box  {
+  border: 2px solid black;
+  padding: 24px;
+  box-shadow: 5px 15px 5px #888888;
+
+}
